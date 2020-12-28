@@ -1,3 +1,7 @@
+# Screen Shots
+
+![alt text](https://github.com/sudeen/DigitalAssignmentTwo/blob/main/ScreenShots/Listing%20All%20Users.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
