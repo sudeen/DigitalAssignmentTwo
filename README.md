@@ -1,6 +1,10 @@
 # Screen Shots
 
 ![alt text](https://github.com/sudeen/DigitalAssignmentTwo/blob/main/ScreenShots/Listing%20All%20Users.png?raw=true)
+![alt text](https://github.com/sudeen/DigitalAssignmentTwo/blob/main/ScreenShots/Listing%203%20Post%20Of%20User.png?raw=true)
+![alt text](https://github.com/sudeen/DigitalAssignmentTwo/blob/main/ScreenShots/Loading%20All%20The%20Posts%20Of%20User.png?raw=true)
+![alt text](https://github.com/sudeen/DigitalAssignmentTwo/blob/main/ScreenShots/Loading%20All%20The%20Posts%20Of%20User.pngraw=true)
+![alt text](https://github.com/sudeen/DigitalAssignmentTwo/blob/main/ScreenShots/Loading%20All%20Comments%20of%20Specific%20Post.png?raw=true)
 
 # Getting Started with Create React App
 
